@@ -1,0 +1,9 @@
+:root {
+  --background:#181A1B ;
+}
+
+body {
+  background: var(--background);
+}
+
+/*# sourceMappingURL=app.css.map */
